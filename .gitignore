@@ -1,0 +1,10 @@
+# Ignore folder named `vendor`
+vendor/
+Clases/conection.php
+Clases/
+/Clases
+Clases/*
+Clases
+/.idea
+idea
+.idea/*
